@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Carlos (0.9.1):
+    - PiedPiper (~> 0.10.1)
+  - ObjectMapper (2.2.7)
+  - PiedPiper (0.10.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (~> 4.1)
+  - Carlos
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  Carlos: f6883dabefcdc762c050be9d1d7716d4beb60736
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  PiedPiper: 0f9bc4e76c6fb0154d6fe6e078174e7fc391a684
+
+PODFILE CHECKSUM: fd452d5a78b9bcbe6e4253831489c92b5ae29166
+
+COCOAPODS: 1.2.0
